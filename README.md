@@ -7,6 +7,16 @@
     
 </div>
 
+
+   
+
+## Attribution
+    
+[API call]() https://www.songsterr.com/a/wa/api/)
+<h1>Problem Statement</h1>
+<p>The purpose is call given API and create a react base UI which can pull the songs and highlight the keyword of the result
+</p>
+<h1>About Application:</hi>
 ## TECHNOLOGY USED
 
 * ### [React.js](https://reactjs.org/)
@@ -16,31 +26,26 @@
     * ###### [material-ui/icons](https://www.npmjs.com/package/@material-ui/icons)
     * ###### [context API](https://reactjs.org/docs/context.html)
     * ###### [scss](https://sass-lang.com/)
-   
-
-## Attribution
-    
-[API call]() https://www.songsterr.com/a/wa/api/)
-[Problem Statement][](The purpose is call given API and create a react base UI which can pull the songs and highlight the keyword of the result)
-
-[About Application][Technology Used:]
-*#Scripting: Javascript
-#Runtime: Nodejs
-#Testing: Mocha
-#HTTP Client: Axios
-#Type: Music UI showing list of songs from API
-#Platform: Cross Platform
-#Instruction to Run
-#Install dependencies by opening the project directory in terminal and Run command "npm i"
-#Make a file .env and enter base URL for 3rd party API
-To Execute App, enter command "npm start"
-To Test App, enter command "npm test"
-[Timebox:][]
-#Pseudo Code with Happy Path Scenario - 20 min
-#Architecture(Project Structure - MVC) and Design Pattern(Style of Coding - Handler Style) - 10 min
-#Refactoring - 20 min
-#Code Changes and Exception Handling - 2:00 min
-#Manual Testing - 40 min
-#Validation - 20 min
+ <p>Scripting: Javascript
+ </p>
+ <p>Runtime: Nodejs
+ </p>
+ <p>Manual testing: Error when try to play the song as play song api is not available
+ </p>
+ <p>HTTP Client: Axios</p>
+ <p>Type: Music UI showing list of songs from API</p>
+ <p>Platform: Cross Platform</p>
+ <p>Instruction to Run</p>
+ <p>Install dependencies by opening the project directory in terminal and Run command "npm i"
+ Make a file .env and enter base URL for 3rd party API</p>
+ <p>To Execute App, enter command "npm start"</p>
+ <p>To Test App, enter command "npm test"</p>
+ <h1>Timebox:</h1>
+ <p>Pseudo Code with Happy Path Scenario - 20 min
+ <p>Architecture(Project Structure - MVC) and Design Pattern(Style of Coding - Handler Style) - 10 min
+  Refactoring - 20 min</p>
+ <p>Code Changes and Exception Handling - 2:00 min<p>
+ <p>Manual Testing - 40 min</p>
+ <p> Validation - 20 min</p>
 #Unit Testing - 20 min
 #Adding Document Level Comments - 20 min

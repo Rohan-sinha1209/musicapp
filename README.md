@@ -14,7 +14,7 @@
     
 [API call]() https://www.songsterr.com/a/wa/api/)
 <h1>Problem Statement</h1>
-<p>The purpose is call given API and create a react base UI which can pull the songs and highlight the keyword of the result
+<p>The purpose is call given API and create a react base UI which can pull the songs and highlight the searched keyword in the result
 </p>
 <h1>About Application:</hi>
 ## TECHNOLOGY USED
